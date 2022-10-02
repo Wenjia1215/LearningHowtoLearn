@@ -2,19 +2,19 @@
 
 
 
-#Week 1
+# Week 1
 There are two modes of thinking in human brain.
-###Focused mode
+### Focused mode
 is when we intently focus on something. The focused mode is centered in the prefrontal cortex and often seems to involve thinking about things you are somewhat familiar with. Like solving a multip­lic­ation problem or trying to find a word that rhymes with another.
 
-###Diffuse mode
+### Diffuse mode
 is a more relaxed thinking style related to a set of neural resting states. The diffuse mode of thinking is called while working on concepts you haven't thought of before.
 It allows for more broad ways of thinking. With traveling along new pathways, new neural connections are built. You can't focus as tightly as you often need to. 
 
 you're either in the focused mode or the diffuse mode of thinking. <br>
 It seems you can't be in both thinking modes at the same time.
 
-####Incidentally, both metaphor and analogy are really helpful when you're trying to learn something new.
+#### Incidentally, both metaphor and analogy are really helpful when you're trying to learn something new.
 
 Comparison:<br>
 the diffuse mode could be thought of as a flashlight set so that it casts its light very broadly, but not very strongly in any one area. (As opposed to the focused mode, which would have its light cast very strongly in a single area, but very weakly everywhere else
