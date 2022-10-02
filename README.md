@@ -5,3 +5,4 @@ https://www.coursera.org/learn/learning-how-to-learn
 
 
 ## Also, I added my own understanding to the note too based on the course.
+### No misinterpretation, only extension.
